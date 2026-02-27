@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+package-lock.json
+
+# Downloads folder
+downloads/
+*.mp4
+*.mp3
+*.webm
+*.m4a
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
